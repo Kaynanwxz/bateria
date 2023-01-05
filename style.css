@@ -17,6 +17,10 @@ h1 {
     color: #FFF;
     margin-bottom: 20px;
 }
+a {
+    text-decoration: none;
+    color: white;
+}
 .keys {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
